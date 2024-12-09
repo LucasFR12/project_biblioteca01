@@ -1,1 +1,1 @@
-Um sistema com funções simples simulando uma biblioteca sem persistencia de dados até momento.
+Um sistema com funções simples simulando uma biblioteca. Sem persistencia de dados até o momento.
